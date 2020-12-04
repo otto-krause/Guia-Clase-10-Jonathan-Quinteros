@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 #include<conio.h>
-int main(int argc, char *argv[]) {
+int main()//La función int no tiene argumentos. 
+{
 	int i,x,nota;
 	char nom[20],mvp[100],ca[100];
 	for (i=1;i<16;i++){
